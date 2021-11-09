@@ -1,0 +1,7 @@
+{
+  "name": "@xastro/skypacker",
+  "description": "🚀 Minimal bundler for Deno and NodeJS",
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}

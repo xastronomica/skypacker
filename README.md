@@ -1,3 +1,3 @@
 # SkyPacker
 
-🚀 Minimal bundler for Deno and NodeJS 
+🚀 Minimal bundler for Deno and NodeJS
